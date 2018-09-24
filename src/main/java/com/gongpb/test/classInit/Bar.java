@@ -1,4 +1,4 @@
-package com.funshion.test.classInit;
+package com.gongpb.test.classInit;
 
 public class Bar extends Foo{
 	int j;

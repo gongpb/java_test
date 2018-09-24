@@ -1,4 +1,4 @@
-package com.funshion.test.threadlocal;
+package com.gongpb.test.threadlocal;
 
 public class Test {
 	   public static void main(String[] args) {

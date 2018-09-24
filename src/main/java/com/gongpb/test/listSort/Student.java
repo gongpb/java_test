@@ -1,4 +1,4 @@
-package com.funshion.test.listSort;
+package com.gongpb.test.listSort;
 
 public class Student {
 	private Integer id;

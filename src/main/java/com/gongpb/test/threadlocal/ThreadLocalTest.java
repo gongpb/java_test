@@ -1,4 +1,4 @@
-package com.funshion.test.threadlocal;
+package com.gongpb.test.threadlocal;
 
 public class ThreadLocalTest extends Thread {
 	public void run(){

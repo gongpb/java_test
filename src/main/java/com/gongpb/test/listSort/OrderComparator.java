@@ -1,4 +1,4 @@
-package com.funshion.test.listSort;
+package com.gongpb.test.listSort;
 
 import java.util.Collections;
 import java.util.Comparator;
